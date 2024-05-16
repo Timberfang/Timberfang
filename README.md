@@ -2,7 +2,6 @@
 
 Hello! You can call me Timberfang, and I've been learning to code on and off for the past several year or so. While my time is more limited than a full-time software dev, I enjoy the process of coding, and I'm excited to make tools and solve problems. Starting by scripting using PowerShell, I'm remaining in the .NET family, picking up C# as my first programming language, which I'm still working on now.
 
-- ✉️ You can contact me at [timberfang.code@pm.me](mailto:timberfang.code@pm.me)
 - 📖 Right now, I'm learning C#, both the fundamentals in general, and how to make GUIs using [Avalonia](https://www.avaloniaui.net/).
 - 🕹️ Besides programming, some of my hobbies include writing, video games, and hiking!
 - ❔ Fun fact: I may or may not be a werewolf!
