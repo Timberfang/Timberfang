@@ -9,11 +9,11 @@ Hello! You can call me Timberfang, and I've been learning to code on and off for
 
 ## Contact Information
 
-- [![Mastodon Badge](https://img.shields.io/badge/Mastodon-%40Timberfang-6364FF?style=flat&logo=mastodon)](https://pawb.fun/@Timberfang)
-- [![Pixelfed Badge](https://img.shields.io/badge/Pixelfed-Timberfang-6366F1?style=flat&logo=pixelfed)](https://pixelfed.furryfandom.me/Timberfang)
-- [![Lemmy Badge](https://img.shields.io/badge/Lemmy-u%2FTimberfang-000000?style=flat&logo=lemmy)](https://pawb.social/u/Timberfang)
-- [![Fur Affinity Badge](https://img.shields.io/badge/Fur%20Affinity-Timberfang-36566F?style=flat&logo=furaffinity)](https://www.furaffinity.net/user/timberfang)
-- [![Email Badge](https://img.shields.io/badge/Email-Timberfang.Code%40pm.me-6D4AFF?style=flat&logo=protonmail)](mailto:timberfang.code@pm.me)
+- [![Mastodon Badge](https://img.shields.io/badge/Mastodon-%40Timberfang-6364FF?style=flat&logo=mastodon&logoColor=lightblue)](https://pawb.fun/@Timberfang)
+- [![Pixelfed Badge](https://img.shields.io/badge/Pixelfed-Timberfang-6366F1?style=flat&logo=pixelfed&logoColor=lightblue)](https://pixelfed.furryfandom.me/Timberfang)
+- [![Lemmy Badge](https://img.shields.io/badge/Lemmy-u%2FTimberfang-000000?style=flat&logo=lemmy&logoColor=lightblue)](https://pawb.social/u/Timberfang)
+- [![Fur Affinity Badge](https://img.shields.io/badge/Fur%20Affinity-Timberfang-36566F?style=flat&logo=furaffinity&logoColor=lightblue)](https://www.furaffinity.net/user/timberfang)
+- [![Email Badge](https://img.shields.io/badge/Email-Timberfang.Code%40pm.me-6D4AFF?style=flat&logo=protonmail&logoColor=lightblue)](mailto:timberfang.code@pm.me)
 
 ## Skills
 
