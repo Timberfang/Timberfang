@@ -4,9 +4,17 @@ Hello! You can call me Timberfang, and I've been learning to code on and off for
 
 - 📖 Right now, I'm learning C#, both the fundamentals in general, and how to make GUIs using [Avalonia](https://www.avaloniaui.net/).
 - 🕹️ Besides programming, some of my hobbies include writing, video games, and hiking!
-- ❔ Fun fact: I may or may not be a werewolf!
+- 🌎 I'm also an environmentalist and animal lover. Be kind to our planet and its creatures, please!
+- ⚠️ Handle with care when the full moon is near! You might just find a werewolf behind the keyboard! Don't worry, I don't bite... much.
+- ✍️ I like world-building and writing stories, especially in my setting called "Vilderheim" - a fantasy world inspired by *Werewolf: The Apocalypse*, Norse mythology, and more. I don't have much available online at the moment, but I hope to change that in the future. When I do, you can check my [Fur Affinity](https://www.furaffinity.net/user/timberfang/), where I'll put PDFs of some stories and world lore.
 
-## Contact Information
+## Projects
+
+- [FurCard](https://github.com/Timberfang/FurCard) - My first "real" C# project. It's a small, *very* WIP program that creates a sort of "digital ID card" for furries with an optional image. It uses the Avalonia GUI framework and is meant to be portable. It's in very early stages, so don't expect much, but I'm learning as I go!
+- [PublishMarkdown](https://github.com/Timberfang/PublishMarkdown) - I write my stories in markdown using [Obsidian](https://obsidian.md/) with the [Longform](https://github.com/kevboh/longform) plugin, and I wanted a simple way to extract the body text (not the frontmatter, footer, or headings) of a series of numbered files, concatenate them, and write a single, continuous story in a separate file. While it's tailored to my use case, maybe it can help someone else, too!
+- PowerShell scripts - I have a handful of scripts that I've created for various reasons. Most of these are in my [GitHub Gists](https://gist.github.com/Timberfang), and they aim to make my life a bit easier or just have fun. PowerShell is how I got my start in coding, so I still use it for simple tasks and automating stuff.
+
+## Connect With Me
 
 - [![Mastodon Badge](https://img.shields.io/badge/Mastodon-%40Timberfang-6364FF?style=flat&logo=mastodon&logoColor=lightblue)](https://pawb.fun/@Timberfang)
 - [![Pixelfed Badge](https://img.shields.io/badge/Pixelfed-Timberfang-6366F1?style=flat&logo=pixelfed&logoColor=lightblue)](https://pixelfed.furryfandom.me/Timberfang)
