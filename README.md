@@ -3,6 +3,7 @@
 Hello! You can call me Timberfang, and I've been learning to code on and off for the past several year or so. While my time is more limited than a full-time software dev, I enjoy the process of coding, and I'm excited to make tools and solve problems. Starting by scripting using PowerShell, I'm remaining in the .NET family, picking up C# as my first programming language, which I'm still working on now.
 
 - 📖 Right now, I'm learning C#, both the fundamentals in general, and how to make GUIs using [Avalonia](https://www.avaloniaui.net/).
+- 📦 I self-host a private [Forgejo](https://forgejo.org/) instance on my home network. Most of my repositories on GitHub are mirrored from there, including this file!
 - 🕹️ Besides programming, some of my hobbies include writing, video games, and hiking!
 - 🌎 I'm also an environmentalist and animal lover. Be kind to our planet and its creatures, please!
 - ⚠️ Handle with care when the full moon is near! You might just find a werewolf behind the keyboard! Don't worry, I don't bite... much.
