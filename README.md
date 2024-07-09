@@ -11,7 +11,6 @@ Hello! You can call me Timberfang, and I've been learning to code on and off for
 
 ## Projects
 
-- [FurCard](https://github.com/Timberfang/FurCard) - My first "real" C# project. It's a small, *very* WIP program that creates a sort of "digital ID card" for furries with an optional image. It uses the Avalonia GUI framework and is meant to be portable. It's in very early stages, so don't expect much, but I'm learning as I go!
 - [PublishMarkdown](https://github.com/Timberfang/PublishMarkdown) - I write my stories in markdown using [Obsidian](https://obsidian.md/), and I wanted a simple way to extract the body text (not the frontmatter, footer, or headings) of a series of numbered files, concatenate them, and write a single, continuous story in a separate file. While it's tailored to my use case, maybe it can help someone else, too!
 - PowerShell scripts - I have a handful of scripts that I've created for various reasons. Most of these are in my [GitHub Gists](https://gist.github.com/Timberfang), and they aim to make my life a bit easier or just have fun. PowerShell is how I got my start in coding, so I still use it for simple tasks and automating stuff.
 
