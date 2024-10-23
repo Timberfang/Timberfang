@@ -13,6 +13,7 @@ Hello! You can call me Timberfang, and I've been learning to code on and off for
 
 - [PublishMarkdown](https://github.com/Timberfang/PublishMarkdown) - I write my stories in markdown using [Obsidian](https://obsidian.md/), and I wanted a simple way to extract the body text (not the frontmatter, footer, or headings) of a series of numbered files, concatenate them, and write a single, continuous story in a separate file. While it's tailored to my use case, maybe it can help someone else, too!
 - PowerShell scripts - I have a handful of scripts that I've created for various reasons. Most of these are in my [GitHub Gists](https://gist.github.com/Timberfang), and they aim to make my life a bit easier or just have fun. PowerShell is how I got my start in coding, so I still use it for simple tasks and automating stuff.
+- [Gists](https://gist.github.com/Timberfang) - My gists include snippets of code and scripts that I found useful at some point. Unless otherwise specified, all of these are licensed under the [Unlicense](https://choosealicense.com/licenses/unlicense/).
 
 ## Connect With Me
 
