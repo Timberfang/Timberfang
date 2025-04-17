@@ -15,7 +15,7 @@ I'll admit, most of my work is small hobby projects; I haven't made anything I w
 2. [TicTacToe](https://github.com/Timberfang/TicTacToe): The children's game tic-tac-toe / noughts and crosses / Xs and Os, right in your terminal.
 3. [MediaTools](https://github.com/Timberfang/MediaTools): My first 'serious' project, this is a PowerShell module I'm working on to help me with preparing content for my personal Plex server. It provides a simple wrapper around the popular media processing suite [FFmpeg](https://ffmpeg.org) for common functions that I needed.
 4. [LicenseIt](https://github.com/Timberfang/LicenseIt): A WIP command-line utility to generate `LICENSE` files for your projects.
-5. [Gists](https://gist.github.com/Timberfang) - My gists include snippets of code and scripts that I found useful at some point. Unless otherwise specified, all of these are licensed under the [MIT No Attribution](https://choosealicense.com/licenses/mit-0) license.
+5. [HelperScripts](https://github.com/Timberfang/HelperScripts): Snippets of code and scripts that I found useful at some point.
 
 ## Connect With Me
 
