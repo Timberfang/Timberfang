@@ -23,7 +23,7 @@ Here are some projects I've worked on. In general, I like to create tools that s
 If you want to get in touch with me, here are some ways to do so:
 
 - **Email**: <timberfang.social@pm.me>
-- **Mastodon**: [@timberfang@pawb.fun](https://pawb.fun/@Timberfang)
+- **Mastodon**: <a href="https://pawb.fun/@Timberfang" rel="me">@timberfang</a>
 - **Fur Affinity**: [Timberfang](https://www.furaffinity.net/user/timberfang)
 - **GitHub**: [Timberfang](https://github.com/Timberfang)
 
